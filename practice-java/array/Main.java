@@ -2,7 +2,7 @@
 
 public class Main {
     public static void main(String[] args) {
-        ArrayListClone arr = new ArrayListClone(8);
+        DynamicArray arr = new DynamicArray(8);
         arr.push(1);
         arr.push(3);
         System.out.println(arr.toString());
