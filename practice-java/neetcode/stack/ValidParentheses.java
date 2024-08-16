@@ -1,6 +1,5 @@
 class Solution {
     public boolean isValid(String s) {
-         // Two pointers
         // Time complexity: O(n)
         // Space complexity: O(n)
         int i = -1;
